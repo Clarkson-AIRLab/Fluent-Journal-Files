@@ -1,0 +1,8 @@
+;Journal file automatically created by Fluent!
+/file read-case C:\Users\hardyhd\Documents\TracB8Particles\TracB8_files\user_files\SYSturb.cas
+/solve/iterate 1000
+/file/write-case-data
+/display/particle-tracks/particle-tracks/particle-diameter
+/display/save-picture/"particletracks.png"
+/file/write-case-data
+

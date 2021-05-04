@@ -1,0 +1,8 @@
+/file/read-case-data "3DCO1PK250mbarTSZ88um.cas"
+/solve/iterate 10000
+/file/write-case-data "3DCO1PK250mbarTSZ88um.cas" yes
+/solve/iterate 10000 
+/file/write-case-data "3DCO1PK250mbarTSZ88um.cas" yes
+/solve/iterate 10000 
+/file/write-case-data "3DCO1PK250mbarTSZ88um.cas" yes
+exit
